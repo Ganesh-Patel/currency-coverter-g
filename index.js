@@ -10,5 +10,5 @@ const freecurrencyapi = new Freecurrencyapi('fca_live_3Mb4yb0EhYMM0EnifyJYGIg8eq
     const finalres=unit*multiplier;
     return finalres;
 }
-// const result = await convertCurrency('USD', 'EUR', 5);
-// console.log(result+" EUR");
+const result = await convertCurrency('USD', 'EUR', 5);
+console.log(result+" EUR");

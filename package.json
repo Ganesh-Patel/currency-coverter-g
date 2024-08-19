@@ -1,0 +1,16 @@
+{
+  "name": "currency-coverter-g",
+  "version": "1.0.0",
+  "description": "currency-coverter-g",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "currency-coverter-g": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ganesh-patel",
+  "license": "ISC"
+}
